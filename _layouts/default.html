@@ -14,7 +14,7 @@
 	        		<li><a href="/">Home</a></li>
 		        	<li><a href="/about">About</a></li>
 							<li><a href="https://www.twitter.com/wickedcoolwords/"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-
+							<li><a href="/feed.xml"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
 	    		</ul>
 			</nav>
 			<div class="container">
@@ -22,10 +22,6 @@
 			{{ content }}
 
 			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:lexicon@wickedcoolwords.org">email</a></li>
-				</ul>
-			</footer>
+		{% include footer.html %}
 		</body>
 	</html>
