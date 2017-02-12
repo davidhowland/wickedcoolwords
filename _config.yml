@@ -1,2 +1,6 @@
-name: Hank Quinlan, Horrible Cop
-markdown: kramdown
+name: Wicked Cool Words
+description: Probably the best vocabulary blog on the internet
+author: David Howland
+author: wickedcoolwords@frigidlight.com
+markdown: rdiscount
+permalink: pretty
