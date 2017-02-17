@@ -42,7 +42,7 @@ ul.posts li {
     list-style: none;
 }
 
-.col-3 .makeEllipsis p {
+.makeEllipsis p {
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
