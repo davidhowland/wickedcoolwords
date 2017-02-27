@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Wicked Cool Words
 ---
 > One forgets words as one forgets names. One's vocabulary needs constant fertilizing or it will die.
 
