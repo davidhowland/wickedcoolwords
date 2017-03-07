@@ -1,0 +1,11 @@
+---
+layout: default
+title: Nouns - Wicked Cool Words
+tag-display: noun
+---
+  {% for post in site.tags [page.tag-display] %}
+    <div class="col-4 makeEllipsis">
+      <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+      {{ post.excerpt }}
+    </div>
+  {% endfor %}
