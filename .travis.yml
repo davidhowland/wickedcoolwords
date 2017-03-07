@@ -28,3 +28,4 @@ deploy:
   access_key_id: $aws_access_key
   secret_access_key: $aws_secret_key
   bucket: $s3_bucket
+  local_dir: _site
