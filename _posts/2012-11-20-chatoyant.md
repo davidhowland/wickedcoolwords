@@ -3,6 +3,9 @@ layout: post
 title: "Chatoyant"
 date: 2012-11-20
 slug: chatoyant
+tags:
+- Adjective
+- Noun
 ---
 
 Adjective. Having a certain optical reflectance effect, which van be likened to the sheen of a spool of silk.
