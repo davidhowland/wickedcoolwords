@@ -8,6 +8,6 @@ tags:
 - noun
 ---
 
-Adjective. Having a certain optical reflectance effect, which van be likened to the sheen of a spool of silk.
+Adjective. Having a certain optical reflectance effect, which can be likened to the sheen of a spool of silk.
 
 Noun. A hard stone, such as the cat's-eye, which presents on a polished surface, and in the interior, an undulating or wavy light.
