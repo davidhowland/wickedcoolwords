@@ -25,7 +25,7 @@ sudo: false # route your build to the container-based infrastructure for a faste
 
 deploy:
   provider: s3
-  access_key_id: $aws_access_key
-  secret_access_key: $aws_secret_key
-  bucket: $s3_bucket
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key: $AWS_SECRET_KEY
+  bucket: wickedcoolwords.org
   local_dir: _site
