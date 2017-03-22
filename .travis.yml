@@ -12,8 +12,7 @@ script: jekyll build && htmlproofer ./_site
 after_success: s3_website push
 
 -branches:
- -  only:
- -  - master
+ -  only: master
 
 env:
   global:
