@@ -9,4 +9,4 @@ rvm:
 # the `install` step will run `bundle install` by default.
 install: gem install jekyll html-proofer jekyll-twitter-plugin s3_website
 script: jekyll build && htmlproofer ./_site
-after_success s3_website push
+after_success: s3_website push
