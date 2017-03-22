@@ -10,3 +10,9 @@ rvm:
 install: gem install jekyll html-proofer jekyll-twitter-plugin s3_website
 script: jekyll build && htmlproofer ./_site
 after_success: s3_website push
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
+
+exclude: [vendor]
