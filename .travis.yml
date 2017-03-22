@@ -11,8 +11,9 @@ install: gem install jekyll html-proofer jekyll-twitter-plugin s3_website
 script: jekyll build && htmlproofer ./_site
 after_success: s3_website push
 
--branches:
- -  only: master
+ branches:
+  only:
+  - master
 
 env:
   global:
