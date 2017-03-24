@@ -2,7 +2,7 @@
 layout: post
 title: "Constabulary"
 date: 2017-03-24
-slug: Constabulary
+slug: constabulary
 tags:
 - noun
 ---
