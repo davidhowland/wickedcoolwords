@@ -3,7 +3,119 @@
   <channel>
     <title>Wicked Cool Words - New Posts</title>
     <description>The latest word posts from Wicked Cool Words</description>
-    <link>http://wickedcoolwords.org</link>
+    <link>http://localhost:4000</link>
+    
+      
+        <item>
+          <title>Repiquer</title>
+          <description>&lt;p&gt;Verb. To pinch; to steal again.&lt;/p&gt;
+
+&lt;p&gt;This word was the highest scoring word played by the computer simulation of Scrabble run by James P. Curley in his &lt;a href=&quot;http://rpubs.com/jalapic/scrabblr&quot;&gt;analysis&lt;/a&gt;.&lt;/p&gt;
+</description>
+          <pubDate>2017-04-01T00:00:00+00:00</pubDate>
+          <link>http://localhost:4000/2017/04/01/repique/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/04/01/repique/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Enclave</title>
+          <description>&lt;p&gt;Noun. A political, cultural or social entity or part thereof that is completely surrounded by another.&lt;/p&gt;
+</description>
+          <pubDate>2017-03-31T00:00:00+00:00</pubDate>
+          <link>http://localhost:4000/2017/03/31/enclave/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/31/enclave/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Cocoon</title>
+          <description>&lt;p&gt;Noun. The silky protective case spun by the larvae of some insects and moths in which they metamorphose, the pupa.&lt;/p&gt;
+</description>
+          <pubDate>2017-03-30T00:00:00+00:00</pubDate>
+          <link>http://localhost:4000/2017/03/30/cocoon/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/30/cocoon/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Kith</title>
+          <description>&lt;p&gt;Noun. (Northern England, Scotland, rural) An acquaintance or a friend.&lt;/p&gt;
+</description>
+          <pubDate>2017-03-29T00:00:00+00:00</pubDate>
+          <link>http://localhost:4000/2017/03/29/kith/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/29/kith/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Smock</title>
+          <description>&lt;p&gt;Noun. A loose garment worn as protection by a painter, etc.&lt;/p&gt;
+</description>
+          <pubDate>2017-03-27T00:00:00+00:00</pubDate>
+          <link>http://localhost:4000/2017/03/27/smock/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/27/smock/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Batrachian</title>
+          <description>&lt;p&gt;Adjective. Pertaining to a frog or toad.&lt;/p&gt;
+</description>
+          <pubDate>2017-03-26T00:00:00+00:00</pubDate>
+          <link>http://localhost:4000/2017/03/26/batrachian/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/26/batrachian/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Blanched</title>
+          <description>&lt;p&gt;Adjective. Lacking complexion or color.&lt;/p&gt;
+</description>
+          <pubDate>2017-03-25T00:00:00+00:00</pubDate>
+          <link>http://localhost:4000/2017/03/25/blanched/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/25/blanched/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Constabulary</title>
+          <description>&lt;p&gt;Noun. The police in a particular district or area.&lt;/p&gt;
+</description>
+          <pubDate>2017-03-24T00:00:00+00:00</pubDate>
+          <link>http://localhost:4000/2017/03/24/constabulary/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/24/constabulary/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Ramshackle</title>
+          <description>&lt;p&gt;Adjective. In disrepair or disorder; poorly maintained; lacking upkeep, usually of buildings or vehicles.&lt;/p&gt;
+</description>
+          <pubDate>2017-03-23T00:00:00+00:00</pubDate>
+          <link>http://localhost:4000/2017/03/23/ramshackle/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/23/ramshackle/</guid>
+        </item>
+      
+    
+      
+        <item>
+          <title>Imbroglio</title>
+          <description>&lt;p&gt;Noun. A complicated situation; an entanglement.&lt;/p&gt;
+</description>
+          <pubDate>2017-03-22T00:00:00+00:00</pubDate>
+          <link>http://localhost:4000/2017/03/22/imbroglio/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/22/imbroglio/</guid>
+        </item>
+      
     
       
         <item>
@@ -11,8 +123,8 @@
           <description>&lt;p&gt;Noun. Conciseness, brevity or terseness.&lt;/p&gt;
 </description>
           <pubDate>2017-03-21T00:00:00+00:00</pubDate>
-          <link>http://wickedcoolwords.org/2017/03/21/concision/</link>
-          <guid isPermaLink="true">http://wickedcoolwords.org/2017/03/21/concision/</guid>
+          <link>http://localhost:4000/2017/03/21/concision/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/21/concision/</guid>
         </item>
       
     
@@ -22,8 +134,8 @@
           <description>&lt;p&gt;Verb. To satisfy (thirst, or other desires); to quench; to extinguish.&lt;/p&gt;
 </description>
           <pubDate>2017-03-20T00:00:00+00:00</pubDate>
-          <link>http://wickedcoolwords.org/2017/03/20/slake/</link>
-          <guid isPermaLink="true">http://wickedcoolwords.org/2017/03/20/slake/</guid>
+          <link>http://localhost:4000/2017/03/20/slake/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/20/slake/</guid>
         </item>
       
     
@@ -33,8 +145,8 @@
           <description>&lt;p&gt;Noun. A surface cut or abrasion.&lt;/p&gt;
 </description>
           <pubDate>2017-03-19T00:00:00+00:00</pubDate>
-          <link>http://wickedcoolwords.org/2017/03/19/scotch/</link>
-          <guid isPermaLink="true">http://wickedcoolwords.org/2017/03/19/scotch/</guid>
+          <link>http://localhost:4000/2017/03/19/scotch/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/19/scotch/</guid>
         </item>
       
     
@@ -44,8 +156,8 @@
           <description>&lt;p&gt;Adjective. Transparent or glossy.&lt;/p&gt;
 </description>
           <pubDate>2017-03-11T00:00:00+00:00</pubDate>
-          <link>http://wickedcoolwords.org/2017/03/11/hyaloid/</link>
-          <guid isPermaLink="true">http://wickedcoolwords.org/2017/03/11/hyaloid/</guid>
+          <link>http://localhost:4000/2017/03/11/hyaloid/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/11/hyaloid/</guid>
         </item>
       
     
@@ -55,8 +167,8 @@
           <description>&lt;p&gt;Adjective. Tapering to a point; pointed.&lt;/p&gt;
 </description>
           <pubDate>2017-03-10T00:00:00+00:00</pubDate>
-          <link>http://wickedcoolwords.org/2017/03/10/acuminate/</link>
-          <guid isPermaLink="true">http://wickedcoolwords.org/2017/03/10/acuminate/</guid>
+          <link>http://localhost:4000/2017/03/10/acuminate/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/10/acuminate/</guid>
         </item>
       
     
@@ -69,8 +181,8 @@
 &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/div&gt;
 </description>
           <pubDate>2017-03-09T00:00:00+00:00</pubDate>
-          <link>http://wickedcoolwords.org/2017/03/09/peduncle/</link>
-          <guid isPermaLink="true">http://wickedcoolwords.org/2017/03/09/peduncle/</guid>
+          <link>http://localhost:4000/2017/03/09/peduncle/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/09/peduncle/</guid>
         </item>
       
     
@@ -80,8 +192,8 @@
           <description>&lt;p&gt;Adjective. Shaped like a strap or long tongue.&lt;/p&gt;
 </description>
           <pubDate>2017-03-08T00:00:00+00:00</pubDate>
-          <link>http://wickedcoolwords.org/2017/03/08/ligulate/</link>
-          <guid isPermaLink="true">http://wickedcoolwords.org/2017/03/08/ligulate/</guid>
+          <link>http://localhost:4000/2017/03/08/ligulate/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/08/ligulate/</guid>
         </item>
       
     
@@ -91,8 +203,8 @@
           <description>&lt;p&gt;Noun. Waste or impure matter&lt;/p&gt;
 </description>
           <pubDate>2017-03-07T00:00:00+00:00</pubDate>
-          <link>http://wickedcoolwords.org/2017/03/07/dross/</link>
-          <guid isPermaLink="true">http://wickedcoolwords.org/2017/03/07/dross/</guid>
+          <link>http://localhost:4000/2017/03/07/dross/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/07/dross/</guid>
         </item>
       
     
@@ -102,8 +214,8 @@
           <description>&lt;p&gt;Noun. A spit of sand linking an island to the mainland (or to another island), formed by longshore drift.&lt;/p&gt;
 </description>
           <pubDate>2017-03-06T00:00:00+00:00</pubDate>
-          <link>http://wickedcoolwords.org/2017/03/06/tombolo/</link>
-          <guid isPermaLink="true">http://wickedcoolwords.org/2017/03/06/tombolo/</guid>
+          <link>http://localhost:4000/2017/03/06/tombolo/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/06/tombolo/</guid>
         </item>
       
     
@@ -113,8 +225,8 @@
           <description>&lt;p&gt;Noun. The stress of voice laid upon an accented syllable of a word.&lt;/p&gt;
 </description>
           <pubDate>2017-03-06T00:00:00+00:00</pubDate>
-          <link>http://wickedcoolwords.org/2017/03/06/ictus/</link>
-          <guid isPermaLink="true">http://wickedcoolwords.org/2017/03/06/ictus/</guid>
+          <link>http://localhost:4000/2017/03/06/ictus/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/06/ictus/</guid>
         </item>
       
     
@@ -124,8 +236,8 @@
           <description>&lt;p&gt;Noun. Something, usually abnormal, which grows out of something else.&lt;/p&gt;
 </description>
           <pubDate>2017-03-06T00:00:00+00:00</pubDate>
-          <link>http://wickedcoolwords.org/2017/03/06/excrescence/</link>
-          <guid isPermaLink="true">http://wickedcoolwords.org/2017/03/06/excrescence/</guid>
+          <link>http://localhost:4000/2017/03/06/excrescence/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/06/excrescence/</guid>
         </item>
       
     
@@ -135,8 +247,8 @@
           <description>&lt;p&gt;Noun. A belief system.&lt;/p&gt;
 </description>
           <pubDate>2017-03-06T00:00:00+00:00</pubDate>
-          <link>http://wickedcoolwords.org/2017/03/06/credo/</link>
-          <guid isPermaLink="true">http://wickedcoolwords.org/2017/03/06/credo/</guid>
+          <link>http://localhost:4000/2017/03/06/credo/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/03/06/credo/</guid>
         </item>
       
     
@@ -148,8 +260,8 @@
 &lt;p&gt;After Braggadocchio, boastful character in Edmund Spenser’s The Faerie Queene (1590), apparently a pseudo-Italian coinage.&lt;/p&gt;
 </description>
           <pubDate>2017-02-17T00:00:00+00:00</pubDate>
-          <link>http://wickedcoolwords.org/2017/02/17/braggadocio/</link>
-          <guid isPermaLink="true">http://wickedcoolwords.org/2017/02/17/braggadocio/</guid>
+          <link>http://localhost:4000/2017/02/17/braggadocio/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/02/17/braggadocio/</guid>
         </item>
       
     
@@ -159,8 +271,8 @@
           <description>&lt;p&gt;Verb. To rent out, to let, to hire out something.&lt;/p&gt;
 </description>
           <pubDate>2017-02-12T00:00:00+00:00</pubDate>
-          <link>http://wickedcoolwords.org/2017/02/12/affittare/</link>
-          <guid isPermaLink="true">http://wickedcoolwords.org/2017/02/12/affittare/</guid>
+          <link>http://localhost:4000/2017/02/12/affittare/</link>
+          <guid isPermaLink="true">http://localhost:4000/2017/02/12/affittare/</guid>
         </item>
       
     
@@ -170,8 +282,8 @@
           <description>&lt;p&gt;Noun. A rope or fetter used to hobble a horse or other animal.&lt;/p&gt;
 </description>
           <pubDate>2012-12-04T00:00:00+00:00</pubDate>
-          <link>http://wickedcoolwords.org/2012/12/04/spancel/</link>
-          <guid isPermaLink="true">http://wickedcoolwords.org/2012/12/04/spancel/</guid>
+          <link>http://localhost:4000/2012/12/04/spancel/</link>
+          <guid isPermaLink="true">http://localhost:4000/2012/12/04/spancel/</guid>
         </item>
       
     
@@ -181,8 +293,8 @@
           <description>&lt;p&gt;Noun. Something, usually abnormal, which grows out of something else.&lt;/p&gt;
 </description>
           <pubDate>2012-11-27T00:00:00+00:00</pubDate>
-          <link>http://wickedcoolwords.org/2012/11/27/excrescence/</link>
-          <guid isPermaLink="true">http://wickedcoolwords.org/2012/11/27/excrescence/</guid>
+          <link>http://localhost:4000/2012/11/27/excrescence/</link>
+          <guid isPermaLink="true">http://localhost:4000/2012/11/27/excrescence/</guid>
         </item>
       
     
@@ -192,8 +304,8 @@
           <description>&lt;p&gt;Noun. Any early apparatus, consisting of a rubber disk and a metal plate, for generating static electricity.&lt;/p&gt;
 </description>
           <pubDate>2012-11-26T00:00:00+00:00</pubDate>
-          <link>http://wickedcoolwords.org/2012/11/26/electrophorus/</link>
-          <guid isPermaLink="true">http://wickedcoolwords.org/2012/11/26/electrophorus/</guid>
+          <link>http://localhost:4000/2012/11/26/electrophorus/</link>
+          <guid isPermaLink="true">http://localhost:4000/2012/11/26/electrophorus/</guid>
         </item>
       
     
@@ -205,8 +317,8 @@
 &lt;p&gt;Noun. A hard stone, such as the cat’s-eye, which presents on a polished surface, and in the interior, an undulating or wavy light.&lt;/p&gt;
 </description>
           <pubDate>2012-11-20T00:00:00+00:00</pubDate>
-          <link>http://wickedcoolwords.org/2012/11/20/chatoyant/</link>
-          <guid isPermaLink="true">http://wickedcoolwords.org/2012/11/20/chatoyant/</guid>
+          <link>http://localhost:4000/2012/11/20/chatoyant/</link>
+          <guid isPermaLink="true">http://localhost:4000/2012/11/20/chatoyant/</guid>
         </item>
       
     
