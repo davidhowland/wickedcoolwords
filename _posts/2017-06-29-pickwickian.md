@@ -2,7 +2,7 @@
 layout: post
 title: "Pickwickian"
 date: 2017-06-29
-slug: pickwickian
+slug: Pickwickian
 tags:
 - adjective
 ---
