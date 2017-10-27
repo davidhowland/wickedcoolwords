@@ -4,5 +4,5 @@ author: David Howland
 author: wickedcoolwords@frigidlight.com
 permalink: pretty
 url: http://wickedcoolwords.org
-gems: ['jekyll-twitter-plugin']
+plugins: ['jekyll-twitter-plugin']
 timezone: America/New York
