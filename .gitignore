@@ -1,2 +1,5 @@
 .travis.yml
 _site
+.sass-cache
+vendor
+.bundle
