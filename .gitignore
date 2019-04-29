@@ -1,6 +1,7 @@
 .travis.yml
-_site
+_site/
 .sass-cache
 vendor
 .bundle
 .tweet-cache
+.DS_store
