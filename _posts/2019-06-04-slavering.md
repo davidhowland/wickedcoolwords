@@ -7,4 +7,4 @@ tags:
 - adjective
 ---
 
-Adjective. Drooling saliva
+Adjective. Drooling saliva.
