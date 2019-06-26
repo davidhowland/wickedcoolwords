@@ -2,7 +2,7 @@
 layout: post
 title: "Atavistic"
 date: 2019-06-26
-slug: Atavistic
+slug: atavistic
 tags:
 - adjective
 ---
