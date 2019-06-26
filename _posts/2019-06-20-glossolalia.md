@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Clack"
-date: 2019-06-19
-slug: clack
+title: "Glossolalia"
+date: 2019-06-20
+slug: glossolalia
 tags:
 - noun
 ---
 
-Noun. An abrupt, sharp sound, especially one made by two hard objects colliding repetitively; a sound midway between a click and a clunk.
+Noun. Speaking a language one does not know, or speaking elaborate but apparently meaningless speech, while in a trance-like state (or, supposedly, under the influence of a deity or spirits); speaking in tongues.
