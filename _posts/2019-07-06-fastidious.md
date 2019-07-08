@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Waldo"
-date: 2019-07-05
-slug: waldo
+title: "Fastidious"
+date: 2019-07-06
+slug: fastidious
 tags:
-- noun
+- adjective
 ---
 
-Noun. A remote manipulation system in which a slave device mimics the motions of a master device manipulated directly by the operator.
+Adjective. Excessively particular, demanding, or fussy about details, especially about tidiness and cleanliness.
