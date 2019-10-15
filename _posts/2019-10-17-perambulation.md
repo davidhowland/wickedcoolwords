@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "perambulation"
+title: "Perambulation"
 slug: perambulation
 tags:
 - noun
