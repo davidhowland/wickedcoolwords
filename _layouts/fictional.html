@@ -1,0 +1,13 @@
+---
+layout: default
+---
+<div class="col-12">
+  <h1>{{ page.title }}</h1>
+  <div class="post">
+        {{ content }}
+        {% if page.video %}
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        {% endif %}
+        <p><a href="{{ page.source }}" target="_blank">View Source</a></p>
+  </div>
+</div>
