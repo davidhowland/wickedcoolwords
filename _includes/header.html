@@ -8,7 +8,11 @@
 			<script src="https://kit.fontawesome.com/19801f7168.js" crossorigin="anonymous"></script>
 			<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 			<meta property="og:title" content="{{ page.tile }}" />
-			<!-- <meta property="og:description" content="{{ page.content }}" /> -->
+			{% if page.description %}
+				<meta property="og:description" content="{{ page.description }}" />
+			{% else %}
+				<meta property="og:description" content="{{ page.content }}" />
+			{% endif %}
 		</head>
 		<body>
 			<div class="container">
