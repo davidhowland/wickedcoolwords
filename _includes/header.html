@@ -1,20 +1,35 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-			<script>
-			  (adsbygoogle = window.adsbygoogle || []).push({
-			    google_ad_client: "ca-pub-6800307787531665",
-			    enable_page_level_ads: true
-			  });
-			</script>
 			<title>{{ page.title }} - Wicked Cool Words</title>
 			<!-- link to main stylesheet -->
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 			<link rel="stylesheet" type="text/css" href="/css/simple-grid.css">
-			<!-- Font Awesome embed code -->
 			<script src="https://kit.fontawesome.com/19801f7168.js" crossorigin="anonymous"></script>
 			<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 			<meta property="og:title" content="{{ page.tile }}" />
-			<meta property="og:description" content="{{ page.content }}" />
+			{% if page.description %}
+				<meta property="og:description" content="{{ page.description }}" />
+			{% else %}
+				<meta property="og:description" content="{{ page.content }}" />
+			{% endif %}
 		</head>
+		<body>
+			<div class="container">
+				<div class="row">
+		  		<div class="col-12">
+				    <nav>
+				        <ul>
+				            <li><a href="/">Home</a></li>
+				            <li><a href="/nouns/">Nouns</a></li>
+				            <li><a href="/adjectives/">Adjectives</a></li>
+				            <li><a href="/verbs/">Verbs</a></li>
+				            <li><a href="/fictional/">Fictional</a></li>
+				            <li><a href="/submit/">Submit a Word</a></li>
+				            <li><a href="/newsletter/"><i class="fas fa-envelope"></i> Weekly Newsletter</a>
+				            <li><a href="https://www.twitter.com/wickedcoolwords/" target="_blank" ><i class="fab fa-twitter-square"></i></a></li>
+				            <li><a href="https://www.facebook.com/wickedcoolwords/" target="_blank"><i class="fab fa-facebook-square"></i></a></li>
+				        </ul>
+				    </nav>
+		  		</div>
+				</div>
