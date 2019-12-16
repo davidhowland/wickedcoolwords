@@ -7,14 +7,14 @@ layout: null
     <title>Wicked Cool Words - New Posts</title>
     <description>The latest word posts from Wicked Cool Words</description>
     <link>{{ site.url }}</link>
-    {% for post in site.posts %}
+    {% for word in site.posts %}
       {% unless post.draft %}
         <item>
-          <title>{{ post.title | xml_escape }}</title>
-          <description>{{ post.content | xml_escape }}</description>
-          <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
-          <link>{{ post.url | prepend: site.url }}</link>
-          <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+          <title>{{ word.title | xml_escape }}</title>
+          <description>{{ word.excerpt | truncate:60 | xml_escape }}</description>
+          <pubDate>{{ word.date | date_to_xmlschema }}</pubDate>
+          <link>{{ word.url | prepend: site.url }}</link>
+          <guid isPermaLink="true">{{ word.url | prepend: site.url }}</guid>
         </item>
       {% endunless %}
     {% endfor %}
