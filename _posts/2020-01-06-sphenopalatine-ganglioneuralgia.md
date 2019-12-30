@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-no-wiki
 title: "Sphenopalatine ganglioneuralgia"
 tags: noun
 source: https://en.wikipedia.org/wiki/Cold-stimulus_headache
