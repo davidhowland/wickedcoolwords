@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-no-wiki
 title: "Hydropote"
 tags: noun
 source: https://en.wikipedia.org/wiki/Water_deer
