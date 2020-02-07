@@ -6,3 +6,4 @@ permalink: pretty
 url: http://wickedcoolwords.org
 plugins: ['jekyll-twitter-plugin']
 timezone: America/New York
+include: [".well-known"]

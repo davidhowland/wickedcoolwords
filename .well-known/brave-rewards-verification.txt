@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: wickedcoolwords.org
+Token: 6f2f4dc3c0434606952f0318bc64c4fded0f9f57f2bbdba8ab48f0a3d1c79e90
