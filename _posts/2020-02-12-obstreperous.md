@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Obstreperous"
+title: "Catatonia"
 tags: adjective
-slug: obstreperoush
+slug: catatonia
 ---
-Adjective. Attended by, or making, a loud and tumultuous noise; boisterous.
+Noun. A severe psychiatric condition, often associated with schizophrenia, characterized by a tendency to remain in a rigid state of stupor for long periods which give way to short periods of extreme agitation.
