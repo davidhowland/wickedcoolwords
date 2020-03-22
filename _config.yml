@@ -1,9 +1,13 @@
 name: Wicked Cool Words
 description: Probably the best vocabulary blog on the internet
 author: David Howland
-author: wickedcoolwords@frigidlight.com
+author: lexicon@wickedcoolwords.org
 permalink: pretty
 url: http://wickedcoolwords.org
-plugins: ['jekyll-twitter-plugin']
+plugins:
+  - jekyll-twitter-plugin
+  - jekyll-paginate
 timezone: America/New York
 include: [".well-known"]
+paginate: 15
+paginate_path: "/page:num/"
