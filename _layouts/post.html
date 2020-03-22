@@ -10,7 +10,7 @@
           <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ page.video }}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         {% endif %}
         {% if page.tags != "fictional" %}
-          <p><a href="https://en.wiktionary.org/wiki/{{ page.slug }}" target="_blank">View on Wiktionary</a></p>
+          <p><a href="https://en.wiktionary.org/wiki/{{ page.title | downcase }}" target="_blank">View on Wiktionary</a></p>
         {% endif %}
       </div>
     </div>
