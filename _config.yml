@@ -10,3 +10,4 @@ plugins:
 timezone: America/New York
 include: [".well-known"]
 paginate: 15
+paginate_path: "/page:num/"
