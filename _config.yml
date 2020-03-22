@@ -1,7 +1,7 @@
 name: Wicked Cool Words
 description: Probably the best vocabulary blog on the internet
 author: David Howland
-author: wickedcoolwords@frigidlight.com
+author: lexicon@wickedcoolwords.org
 permalink: pretty
 url: http://wickedcoolwords.org
 plugins: ['jekyll-twitter-plugin']
