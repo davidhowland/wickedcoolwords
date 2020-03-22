@@ -4,6 +4,9 @@ author: David Howland
 author: lexicon@wickedcoolwords.org
 permalink: pretty
 url: http://wickedcoolwords.org
-plugins: ['jekyll-twitter-plugin']
+plugins:
+  - jekyll-twitter-plugin
+  - jekyll-paginate
 timezone: America/New York
 include: [".well-known"]
+paginate: 15
