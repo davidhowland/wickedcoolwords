@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Kerfuffle"
+title: "Codswallop"
 pos: noun
 tags: noun
 ---
-Noun. Senseless talk or writing; nonsense; rubbish.
+Senseless talk or writing; nonsense; rubbish.
