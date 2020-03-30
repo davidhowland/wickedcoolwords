@@ -4,4 +4,4 @@ title: "Kerfuffle"
 pos: noun
 tags: noun
 ---
-Noun. A disorderly outburst, disturbance, commotion, or tumult.
+A disorderly outburst, disturbance, commotion, or tumult.
