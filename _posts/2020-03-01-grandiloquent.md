@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "grandiloquent"
+title: "Grandiloquent"
 tags: adjective
 slug: grandiloquent
 ---
