@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Elocution"
-pos: noun
-tags: noun
+title: "Vociferous"
+pos: adjective
+tags: adjective
 ---
-The art of public speaking with expert control of gesture and voice, etc.
+Making or characterized by a noisy outcry; clamorous.
