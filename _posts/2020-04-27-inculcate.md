@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "inculcate"
+title: "Inculcate"
 pos: verb
 tags: verb
 ---
