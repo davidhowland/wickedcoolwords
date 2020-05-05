@@ -1,7 +1,7 @@
-—
+---
 layout: post
-title: “Flabbergasted”
+title: Flabbergasted
 pos: adjective
 tags: adjective
-—
+---
 Appalled, annoyed, exhausted or disgusted.
