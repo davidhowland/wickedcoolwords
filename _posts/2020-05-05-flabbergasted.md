@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Flabbergasted”
+title: Flabbergasted
 pos: adjective
 tags: adjective
 ---
