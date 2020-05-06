@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Befuddled”
+title: Befuddled
 pos: adjective
 tags: adjective
 ---
